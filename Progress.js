@@ -1,4 +1,4 @@
-import speedometer from './speedometer';
+import speedometer from './speedometer.js';
 
 export default class Progress {
   constructor(length, emitDelay = 1000) {
